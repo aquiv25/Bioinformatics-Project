@@ -1,5 +1,5 @@
-# Bioinformatics-Project
-The aim of the project is to study the early evolution of invertebrates at three levels of annotation: genetic, epigenetic, and the level of formation of secondary DNA structures.
+# Изучение ранней эволюции головоногих моллюсков 
+Целью работы над проектом является изучение ранней эволюции беспозвоночных на трех уровнях аннотации: генетическом, эпигенетическом, и на уровне образования вторичных структур ДНК.
 
 | Участник | Вид | Репозиторий|
 |----------|-----|-------|
