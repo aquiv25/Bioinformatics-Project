@@ -3,7 +3,7 @@
 
 | Участник | Вид | Репозиторий|
 |----------|-----|-------|
-| Гарипова Д. | *Octopus bimaculoides* |  |
+| Гарипова Д. | *Octopus bimaculoides* | https://github.com/aquiv25/Project_Octopus/tree/main |
 | Савин И. | *Octopus americanus* |  |
 | Кукушкина И. | *Octopus vulgaris* |  |
 | Бачурина Ю. | *Octopus sinensis* | |
