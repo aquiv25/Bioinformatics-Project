@@ -4,11 +4,11 @@
 | Участник | Вид | Репозиторий|
 |----------|-----|-------|
 | Гарипова Д. | *Octopus bimaculoides* | https://github.com/aquiv25/Project_Octopus/tree/main |
-| Савин И. | *Octopus americanus* |  |
+| Савин И. | *Octopus americanus* | https://github.com/ir-ir-ir/HSE_Bioinformatics/tree/main/bioinf_final_project |
 | Кукушкина И. | *Octopus vulgaris* |  |
-| Бачурина Ю. | *Octopus sinensis* | |
-| Макаров Т. | *Amphioctopus fangsiao* |  |
+| Бачурина Ю. | *Octopus sinensis* | https://github.com/7lli8/hse-minor-octopus-sinensis |
+| Макаров Т. | *Amphioctopus fangsiao* | https://github.com/TimofeyMakarov/Bioinformatics/blob/main/project |
 | Сиротинкина А. | *Octopus rubescens* | |
-| Акулов А. | *Octopus mimus* |  |
+| Акулов А. | *Octopus mimus* | https://github.com/arinasirotinkina/octopus_rubescens |
 | Харисов Б. | *Eledone cirrhosa* |  |
 
